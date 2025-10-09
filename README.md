@@ -5,6 +5,6 @@
 🤝 Open to collaborating on **backend engineering, system design, and AI-powered apps**.  
 
 📌 Personal Project: [YourDateAI](http://yourdateai.com) – AI-powered dating assistant (Web + Mobile, built with OpenAI API).  
-📌 Portfolio: [https://ddev687.github.io/shubham-portfolio/](https://shubhammaurya.in/)
+📌 Portfolio: [https://shubhammaurya.in/](https://shubhammaurya.in/)
 
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/shubham-maurya-38012b112)
