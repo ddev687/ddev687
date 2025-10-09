@@ -7,4 +7,4 @@
 📌 Personal Project: [YourDateAI](http://yourdateai.com) – AI-powered dating assistant (Web + Mobile, built with OpenAI API).  
 📌 Portfolio: [https://shubhammaurya.in](https://shubhammaurya.in/)
 
-🔗 Connect with me: [LinkedIn](https://linkedin.com/in/shubham-maurya-38012b112)
+🔗 Connect with me: [LinkedIn](https://linkedin.com/in/shubham-maurya-38012b112) | [Medium](https://medium.com/@shubhammaurya2385)
