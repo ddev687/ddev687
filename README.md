@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shubham Maurya  
 
-💻 **Senior Backend Engineer** with 7+ years of experience building **cloud-native systems, REST APIs, and microservices**.  
+💻 **Senior Backend Engineer** with 8+ years of experience building **cloud-native systems, REST APIs, and microservices**.  
 🚀 Skilled in **Node.js, Nest.js, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, GCP**.  
 🤝 Open to collaborating on **backend engineering, system design, and AI-powered apps**.  
 
